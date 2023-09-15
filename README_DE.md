@@ -39,11 +39,11 @@ Unser Buch behandelt eine Vielzahl von Themen, die Sie von den grundlegenden Kon
 
 ## Wie man dieses Buch verwendet
 
-Sie können dieses Buch kostenlos von unserer [Website](https://www.xstackbooks.com/python-tutorial) herunterladen und es offline oder online lesen. Sie können auch den Code und praktische Beispiele im Buch für Übungen verwenden.
+Sie können dieses Buch kostenlos von unserer [أGithub](Step_by_step_learning_of_Python_programming_from_elementary_to_intermediate.pdf) herunterladen und es offline oder online lesen. Sie können auch den Code und praktische Beispiele im Buch für Übungen verwenden.
 
 ## Zugriff auf das Buch
 
-Sie können dieses Buch kostenlos von unserer [Website](https://www.xstackbooks.com/python-tutorial) herunterladen.
+Sie können dieses Buch kostenlos von unserer [Github](Step_by_step_learning_of_Python_programming_from_elementary_to_intermediate.pdf) herunterladen.
 
 ## Kontakt zu Team XStack
 
