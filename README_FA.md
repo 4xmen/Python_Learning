@@ -2,7 +2,7 @@
 
 به نام خدا
 
-![تصویر کاور کتاب](link_to_cover_image.jpg)
+![تصویر کاور کتاب](BookCover.png)
 
 **نویسندگان:** تیم XStack
 
