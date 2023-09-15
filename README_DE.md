@@ -8,11 +8,14 @@ Im Namen Gottes
 
 **Veröffentlichungsdatum:** September 2023
 
-### Languages (زبان‌ها / Sprachen)
+## Sprachen
+<div align="center">
 
-- [English (انگلیسی)](README.md): Read the README in English.
-- [German (Deutsch)](README_DE.md): Lesen Sie die README auf Deutsch.
-- [Persian (فارسی)](README_FA.md): README را به زبان فارسی بخوانید.
+[![en](https://img.shields.io/badge/Lang-English-blue.svg)](README.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![fa](https://img.shields.io/badge/Lang-Persian-green.svg)](README_FA.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![de](https://img.shields.io/badge/Lang-Deutsch-yellow.svg)](README_DE.md)
+
+</div>
 
 
 
