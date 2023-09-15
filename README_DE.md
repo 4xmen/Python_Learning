@@ -8,6 +8,15 @@ Im Namen Gottes
 
 **Veröffentlichungsdatum:** September 2023
 
+### Languages (زبان‌ها / Sprachen)
+
+- [English (انگلیسی)](README.md): Read the README in English.
+- [German (Deutsch)](README_DE.md): Lesen Sie die README auf Deutsch.
+- [Persian (فارسی)](README_FA.md): README را به زبان فارسی بخوانید.
+
+
+
+
 ## Einleitung
 
 Dieses Buch, "Python-Programmierung lernen - Vom Anfänger bis zum Fortgeschrittenen," wurde von Team XStack erstellt, um Ihnen dabei zu helfen, Python als Ihre primäre Programmiersprache zu erlernen und Ihre Fähigkeiten in dieser Sprache zu erweitern.
