@@ -8,6 +8,15 @@
 
 **تاریخ انتشار:** ماه سپتامبر، 2023
 
+### Languages (زبان‌ها / Sprachen)
+
+- [English (انگلیسی)](README.md): Read the README in English.
+- [German (Deutsch)](README_DE.md): Lesen Sie die README auf Deutsch.
+- [Persian (فارسی)](README_FA.md): README را به زبان فارسی بخوانید.
+
+
+
+
 ## مقدمه
 
 این کتاب "آموزش زبان برنامه‌نویسی پایتون از مبتدی تا متوسط" توسط تیم XStack تهیه شده است تا به شما کمک کند پایتون را به عنوان زبان برنامه‌نویسی اولیه خود یاد بگیرید و تا مهارت‌های پیشرفته‌تری در این زبان توسعه دهید.
