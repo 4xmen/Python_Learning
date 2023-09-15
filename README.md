@@ -8,6 +8,13 @@ In the name of God
 
 **Publication Date:** September, 2023
 
+### Languages (زبان‌ها / Sprachen)
+
+- [English (انگلیسی)](README.md): Read the README in English.
+- [German (Deutsch)](README_DE.md): Lesen Sie die README auf Deutsch.
+- [Persian (فارسی)](README_FA.md): README را به زبان فارسی بخوانید.
+
+
 ## Introduction
 
 This book, "Learn Python Programming from Beginner to Intermediate," has been prepared by Team XStack to help you learn Python as your primary programming language and advance your skills in this language.
