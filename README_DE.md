@@ -2,7 +2,7 @@
 
 Im Namen Gottes
 
-![Buchumschlagbild](link_to_cover_image.jpg)
+![Buchumschlagbild](BookCover.png)
 
 **Autoren:** Team XStack
 
