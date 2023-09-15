@@ -43,7 +43,7 @@
 
 ## نحوه دسترسی به کتاب
 
-شما می‌توانید این کتاب را به صورت رایگان از [وبسایت ما](https://www.xstackbooks.com/python-tutorial) دانلود کنید.
+شما می‌توانید این کتاب را به صورت رایگان از [گیت هاب ما](Step_by_step_learning_of_Python_programming_from_elementary_to_intermediate.pdf) دانلود کنید.
 
 ## ارتباط با تیم XStack
 
