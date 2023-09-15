@@ -35,7 +35,7 @@ Sie können dieses Buch kostenlos von unserer [Website](https://www.xstackbooks.
 
 ## Kontakt zu Team XStack
 
-Wenn Sie Fragen, Anregungen oder Feedback zum Buch haben, würden wir uns freuen, von Ihnen zu hören. Bitte kontaktieren Sie uns über unsere [Kontaktseite](https://www.xstackbooks.com/contact).
+Wenn Sie Fragen, Anregungen oder Feedback zum Buch haben, würden wir uns freuen, von Ihnen zu hören. Bitte kontaktieren Sie uns über unsere [Kontaktseite](https://github.com/4xmen/Python_Learning/issues).
 
 Wir hoffen, dass dieses Buch Ihnen hilft, die Python-Programmiersprache zu erlernen und Sie zu einem erfahrenen Programmierer in diesem Bereich macht.
 
