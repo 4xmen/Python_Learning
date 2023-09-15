@@ -2,7 +2,7 @@
 
 In the name of God
 
-![Book Cover Image](link_to_cover_image.jpg)
+![Book Cover Image](BookCover.png)
 
 **Authors:** Team XStack
 
